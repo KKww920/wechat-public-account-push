@@ -103,7 +103,7 @@ export const USER_CONFIG = {
       horoscopeDate: '09.03',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [生日],
+      festivals: [],
       customizedDateList: []
     },
     {
